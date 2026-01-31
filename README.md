@@ -1,2 +1,2 @@
-# Stv
-Hey, I'm STV. A passionate newbie exploring code, cybersecurity, and tech. I share my learning journey through small projects and experiments. Curious about Python, web dev, and ethical hacking. Building step by step, learning in public. Welcome to my growth journey!
+Hi, I’m STV.
+A developer in training focused on practical software projects and cybersecurity exploration. I build tools that solve real problems while studying penetration testing and secure coding. My work reflects a journey of continuous improvement—clean, functional, and learning-driven. Open to collaboration and meaningful tech conversations. 
